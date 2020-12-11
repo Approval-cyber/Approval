@@ -3,7 +3,7 @@
 
 - Ekip Sunucum [Team13](https://discord.gg/team13)
 
-- İlk Dil'im **Temel C$**
+- İlk Dil'im **Temel C#**
 
 <h3>Bildiğim Cod Dillerim</h3>
 <p align="left">
