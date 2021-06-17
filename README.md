@@ -1,23 +1,26 @@
 <h1 align="center">Merhaba Arkadaşlar Adım Approval (Memo)👋</h1>
 <h3 align="center">18 Yaşında Temel Bir Coder</h3>
 
-- İlk Dil'im **Temel C#**
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<h3>Bildiğim Cod Dillerim</h3>
-<p align="left">
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</p>
-<h3>Teknolojilerim</h3>
-<p align="left">
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-
-</p>
-
-![Approval](https://github-readme-stats.vercel.app/api?username=approval-denial&show_icons=true&theme=radical)
-
- 
+<br/>
+<a href="https://github.com/approval-denial">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=approval-denial&theme=dark&layout=compact" />
+</a>
