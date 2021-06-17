@@ -20,6 +20,6 @@
 
 </p>
 
-![Approval](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Approval](https://github-readme-stats.vercel.app/api?username=approval-denial&show_icons=true&theme=radical)
 
  
