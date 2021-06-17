@@ -1,8 +1,6 @@
 <h1 align="center">Merhaba Arkadaşlar Adım Approval (Memo)👋</h1>
 <h3 align="center">18 Yaşında Temel Bir Coder</h3>
 
-- Ekip Sunucum [901](https://discord.gg/U2gaMdhPnc)
-
 - İlk Dil'im **Temel C#**
 
 <h3>Bildiğim Cod Dillerim</h3>
