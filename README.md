@@ -1,5 +1,7 @@
 <h1 align="center">Merhaba Arkadaşlar Adım Approval (Memo)👋</h1>
 <h3 align="center">18 Yaşında Temel Bir Coder</h3>
+ <img src="https://komarev.com/ghpvc/?username=Approval-Denial&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial" />
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
