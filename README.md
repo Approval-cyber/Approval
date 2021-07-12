@@ -1,6 +1,9 @@
 <h1 align="center">Merhaba Arkadaşlar Adım Approval (Memo)👋</h1>
 <h3 align="center">18 Yaşında Temel Bir Coder</h3>
  <img src="https://komarev.com/ghpvc/?username=Approval-Denial&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial" />
+ 
+[![My Profile](https://lanyard-profile-readme.vercel.app/api/852800814808694814?hideDiscrim=true)](https://discord.com/users/852800814808694814)
+</p>
 
 
 - 💻 &nbsp;
